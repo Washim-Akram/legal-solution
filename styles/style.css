@@ -25,3 +25,16 @@ a {
   padding: 18px 29px;
   border-radius: 8px;
 }
+.legal-primary-button:hover {
+  background-color: #c08b4b;
+}
+
+/*------- Header Section Styles-------*/
+/* Banner Portion Styles */
+.banner {
+  background-image: url("../images/banner.png");
+  height: 550px;
+  border-radius: 8px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
