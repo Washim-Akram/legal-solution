@@ -19,7 +19,8 @@ a {
   font-family: "Poppins", sans-serif;
   color: #707070;
 }
-section {
+section,
+footer {
   margin-top: 120px;
 }
 .legal-primary-button {
@@ -34,6 +35,7 @@ section {
 }
 .legal-primary-button:hover {
   background-color: #c08b4b;
+  color: #ffffff;
 }
 
 /*------- Header Section Styles-------*/
