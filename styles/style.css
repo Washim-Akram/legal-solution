@@ -48,6 +48,12 @@ footer {
   background-size: cover;
 }
 
+/*------- Legal Practice Area Section Styles-------*/
+.legal-practice-area-card:hover {
+  background: linear-gradient(180deg, #f3f3f3 0%, rgba(243, 243, 243, 0) 100%);
+  border: 1px solid #e7e7e7;
+}
+
 /*------- Clients Say Section Styles------- */
 .legal-slider-bg-img {
   height: 500px;
